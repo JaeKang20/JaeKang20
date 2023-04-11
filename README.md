@@ -6,3 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: admilljk7091@naver.com
+- this is my blog https://keyboardwarrior.tistory.com
+
+thank you!
