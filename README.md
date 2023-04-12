@@ -8,4 +8,4 @@
 thank you!
 
 Etc
-HTML, CSS(Bootstrap, MYSQL,AWS
+HTML, CSS, MYSQL, AWS
