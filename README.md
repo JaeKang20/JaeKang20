@@ -4,9 +4,11 @@
 - 📫 How to reach me: **chksworkd123@naver.com**
 - this is my blog **https://keyboardwarrior.tistory.com**
 
+#이력서
+https://www.rallit.com/resumes/286023@jkchoi7091/%EC%B5%9C%EC%9E%AC%EA%B0%95
 
 #포트폴리오
-[최재강_포트폴리오.pdf](https://github.com/JaeKang20/JaeKang20/files/11609453/_.pdf)
+https://drive.google.com/file/d/1qWWlyPH8EC_EzVxzk1597bfWsvxL8k22/view
 
 #프로젝트
 https://github.com/JaeKang20/board
