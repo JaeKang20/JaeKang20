@@ -5,9 +5,11 @@
 - this is my blog **https://keyboardwarrior.tistory.com**
 
 
-#이력서(resume)
+#포트폴리오
 [최재강_포트폴리오.pdf](https://github.com/JaeKang20/JaeKang20/files/11609453/_.pdf)
 
+#프로젝트
+https://github.com/JaeKang20/board
 
 
 감사합니다!
