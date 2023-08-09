@@ -3,6 +3,8 @@
 
 - 🌱 요즘은 **정보처리기사** 실기 자격증 준비중입니다.
 
+<h3 align="center">공부한 내용들은 📝 Study 레포에 정리해놓습니다.</h3>
+
 - 제 프로젝트를 공유드립니다. [AWS에 기반한 웹서비스 배포](http://ec2-43-200-120-235.ap-northeast-2.compute.amazonaws.com/)
 
 - 👨‍💻 All of my portfolio are available at [https://drive.google.com/file/d/1qWWlyPH8EC_EzVxzk1597bfWsvxL8k22/view?usp=sharing](https://drive.google.com/file/d/1qWWlyPH8EC_EzVxzk1597bfWsvxL8k22/view?usp=sharing)
