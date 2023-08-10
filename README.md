@@ -1,19 +1,19 @@
 <h1 align="center">안녕하세요 저는 최재강입니다.</h1>
 <h3 align="center">현재 서울에 근무하며 발전해나가는 신입 개발자입니다..</h3>
 
-- 🌱 요즘은 **정보처리기사** 실기 자격증 준비중입니다.
+<h3 align="center">공부한 내용들은 📝 <a href="https://github.com/JaeKang20/Study">Study</a> 레포나 <a href="https://keyboardwarrior.tistory.com/">블로그</a>에 정리해놓습니다.</h3>
 
-<h3 align="center">공부한 내용들은 📝 Study레포나 블로그에 정리해놓습니다.</h3>
 
 - 제 프로젝트를 공유드립니다. [AWS에 기반한 웹서비스 배포](http://ec2-43-200-120-235.ap-northeast-2.compute.amazonaws.com/)
 
-- 👨‍💻 All of my portfolio are available at [https://drive.google.com/file/d/1qWWlyPH8EC_EzVxzk1597bfWsvxL8k22/view?usp=sharing](https://drive.google.com/file/d/1qWWlyPH8EC_EzVxzk1597bfWsvxL8k22/view?usp=sharing)
+- 📄 Know about my experiences [Shortcut](https://drive.google.com/file/d/1FfNr7i555wkJRKizmpwxUcUyLEPwADDr/view?usp=sharing)
 
-- 📝 I regularly write articles on [https://keyboardwarrior.tistory.com](https://keyboardwarrior.tistory.com)
+- 👨‍💻 All of my portfolio are available at [Shortcut](https://drive.google.com/file/d/1qWWlyPH8EC_EzVxzk1597bfWsvxL8k22/view?usp=sharing)
 
 - 📫 How to reach me **chksworkd123@naver.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FfNr7i555wkJRKizmpwxUcUyLEPwADDr/view?usp=sharing](https://drive.google.com/file/d/1FfNr7i555wkJRKizmpwxUcUyLEPwADDr/view?usp=sharing)
+- 🌱 요즘 관심있게 살펴보는건 **정보처리기사** 실기 자격증 준비중입니다.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
