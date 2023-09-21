@@ -1,8 +1,10 @@
-<h1 align="center">안녕하세요 저는 최재강입니다.</h1>
-<h3 align="center">현재 서울에 근무하며 발전해나가는 신입 데이터 엔지니어입니다.</h3>
+# 안녕하세요 저는 최재강입니다.
 
-<h3 align="center">개인적으로 공부한 내용들은 📝 <a href="https://github.com/JaeKang20/Study">Study</a> 레포나 <a href="https://keyboardwarrior.tistory.com/">블로그</a>에 정리해놓습니다.</h3>
-<h3 align="center">회사에서 공부한 내용들은 📝 <a href="https://github.com/JaeKang20/lloydk">lloydk</a> 레포에 정리해놓습니다.</h3> 
+## 현재 서울에 근무하며 발전해나가는 신입 데이터 엔지니어입니다.
+
+개인적으로 공부한 내용들은 📝 [Study](https://github.com/JaeKang20/Study) 레포나 [블로그](https://keyboardwarrior.tistory.com/)에 정리해놓습니다.
+
+회사에서 공부한 내용들은 📝 [lloydk](https://github.com/JaeKang20/lloydk) 레포에 정리해놓습니다.
 
 
 - 제 프로젝트를 공유드립니다. [AWS에 기반한 웹서비스 배포](http://ec2-43-200-120-235.ap-northeast-2.compute.amazonaws.com/)
