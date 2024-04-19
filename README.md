@@ -4,13 +4,9 @@
 
 개인적으로 공부한 내용들은 📝 [Study](https://github.com/JaeKang20/Study) 레포나 [블로그](https://keyboardwarrior.tistory.com/)에 정리해놓습니다.
 
-- 📄 Know about my experiences [Shortcut](https://drive.google.com/file/d/1FfNr7i555wkJRKizmpwxUcUyLEPwADDr/view?usp=sharing) (현재 비공개)
-
-- 👨‍💻 All of my portfolio are available at [Shortcut](https://drive.google.com/file/d/1qWWlyPH8EC_EzVxzk1597bfWsvxL8k22/view?usp=sharing) (현재 비공개)
-
 - 📫 How to reach me **chksworkd123@naver.com**
 
-- 🌱 요즘 관심있게 살펴보는건 **정보처리기사(실기)**,**리눅스마스터2급**  자격증입니다.
+- 🌱 요즘 관심있게 살펴보는건 **정보처리기사(실기)**,**리눅스마스터2급(완)**,**Elasticsearch(완)**  자격증입니다.
 
 
 <h3 align="left">Connect with me:</h3>
