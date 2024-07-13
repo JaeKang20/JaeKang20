@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chksworkd123@naver.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KUHCPYk_6WV5dwN-1WYLusoIf45_XyKb/view?usp=sharing](https://drive.google.com/file/d/1KUHCPYk_6WV5dwN-1WYLusoIf45_XyKb/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1KUHCPYk_6WV5dwN-1WYLusoIf45_XyKb/view?usp=sharing](https://drive.google.com/file/d/1KUHCPYk_6WV5dwN-1WYLusoIf45_XyKb/view?usp=sharing)](https://drive.google.com/file/d/1v3lA8d6Qn6UPnteR_nSSsubUVYaXqtih/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
