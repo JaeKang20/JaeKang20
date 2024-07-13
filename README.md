@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **chksworkd123@naver.com**
 
-- 🌱 요즘 관심있게 살펴보는건 **정보처리기사(실기)**,**리눅스마스터2급(완)**,**Elasticsearch(완)**  자격증입니다.
+- 🌱 python을 이용한 크롤러와 검색엔진을 주로 다루고 있습니다. Spark와 kafka에 대해 공부중입니다.
 
 
 <h3 align="left">Connect with me:</h3>
