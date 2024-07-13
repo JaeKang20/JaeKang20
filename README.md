@@ -1,13 +1,10 @@
 # 안녕하세요 저는 최재강입니다.
 
-## 현재 서울에 근무하며 발전해나가는 신입 데이터 엔지니어입니다.
-
-개인적으로 공부한 내용들은 📝 [Study](https://github.com/JaeKang20/Study) 레포나 [블로그](https://keyboardwarrior.tistory.com/)에 정리해놓습니다.
+## 현재 서울에 근무하며 발전해나가는 데이터 검색 엔지니어입니다.
 
 - 📫 How to reach me **chksworkd123@naver.com**
 
 - 🌱 python을 이용한 크롤러와 검색엔진을 주로 다루고 있습니다. Spark와 kafka에 대해 공부중입니다.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
