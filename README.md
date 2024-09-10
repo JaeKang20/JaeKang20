@@ -3,9 +3,7 @@
 
 - 🌱 python,Elasitcsearch을 이용한 **크롤러와 검색엔진을 주로 다루고 있습니다.**
 - RAG 프롬프트 활용, 생성형 LLM을 다룰줄 아는 엔지니어입니다.
-- 
 - 📫 How to reach me **chksworkd123@naver.com**
-
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1CNUw2sSacvvlB5zQOJR6xJL49wAHgF0z/view?usp=sharing](https://drive.google.com/file/d/1Hs5tSD1oC1snqa9Bif4ZN6Oks21e8bkT/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
